@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+.con{
+    margin-left: 150px;
+    
+}
+.start{
+    color: #fff;
+}
+.margin{
+    margin-left: 750px;
+}
+ .navbar-brand {
+    color: #fff;
+  }
+  .bi{
+      width: 50%;
+      height: 50%;
+  }
+  .feature {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 4rem;
+    width: 4rem;
+    font-size: 2rem;
+    
+  }
+  .icon{
+    margin-top: -15px;
+  }
